@@ -1,5 +1,8 @@
 *.py[cod]
 
+# big files
+data/*.csv
+
 # C extensions
 *.so
 
